@@ -1,2 +1,1 @@
-# hashcat
-hashcat methodology
+All your hashcat cracking needs.
